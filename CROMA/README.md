@@ -5,8 +5,8 @@
 
 
 해당 내용은 code 변경을 위한 설치
-pip install keyboard        // 키보드
-pip install opencv-python   // 이미지
-pip install pyautogui       // 자동화
-pip install pillow          // 이미지
-pip install pynput          // 키 입력
+- pip install keyboard        // 키보드
+- pip install opencv-python   // 이미지
+- pip install pyautogui       // 자동화
+- pip install pillow          // 이미지
+- pip install pynput          // 키 입력
