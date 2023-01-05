@@ -1,0 +1,12 @@
+
+*.ico
+*.pyc
+*.exe.html
+*.toc
+*.zip
+*.manifest
+*.pkg
+*.pyz
+*.txt
+*.spec
+CROMA/test
